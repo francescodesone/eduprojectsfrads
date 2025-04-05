@@ -3,7 +3,7 @@
 
 # Educational and Instructional Materials
 
-This repository contains materials intended for educational and instructional purposes only.
+**This repository contains materials intended for educational and instructional purposes only**.
 
 ## Folder Contents:
 
