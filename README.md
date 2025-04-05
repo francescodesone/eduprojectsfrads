@@ -1,6 +1,8 @@
 # myeduprojectsfra
 
-***This repository contains materials intended for educational and instructional purposes only***.
+> [!CAUTION]
+> This repository contains materials intended for educational and instructional purposes only
+
 
 # Key purposes of this repository 
 The purpose of this repository is to showcase personal projects developed during my studies. I created it to share some of my work in the hopes that it may assist others in their ***research or studies***.
@@ -12,6 +14,5 @@ The purpose of this repository is to showcase personal projects developed during
 
 Feel free to explore and use the materials ***only*** for your learning and research.
 
-***Please carefully review the disclaimer included in each R file as well as in the PDF documents/files***
 > [!NOTE]
-> Useful information that users should know, even when skimming content.
+> Please carefully review the disclaimer included in each R file as well as in the PDF documents/files
