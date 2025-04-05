@@ -1,6 +1,6 @@
 # myeduprojectsfra
 
-> [!CAUTION]
+> [!WARNING]
 > This repository contains materials intended for educational and instructional purposes only
 
 
