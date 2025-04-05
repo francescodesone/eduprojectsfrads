@@ -13,3 +13,5 @@ The purpose of this repository is to showcase personal projects developed during
 Feel free to explore and use the materials ***only*** for your learning and research.
 
 ***Please carefully review the disclaimer included in each R file as well as in the PDF documents/files***
+> [!NOTE]
+> Useful information that users should know, even when skimming content.
