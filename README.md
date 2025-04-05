@@ -1,7 +1,7 @@
 # myeduprojectsfra
 
 > [!WARNING]
-> This repository contains materials intended for educational and instructional purposes only
+> This repository contains materials intended for educational and instructional purposes only.
 > Please carefully review the disclaimer included in each R file as well as in the PDF documents/files
 
 
