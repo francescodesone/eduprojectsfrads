@@ -2,6 +2,7 @@
 
 > [!WARNING]
 > This repository contains materials intended for educational and instructional purposes only
+> Please carefully review the disclaimer included in each R file as well as in the PDF documents/files
 
 
 # Key purposes of this repository 
@@ -14,5 +15,3 @@ The purpose of this repository is to showcase personal projects developed during
 
 Feel free to explore and use the materials ***only*** for your learning and research.
 
-> [!NOTE]
-> Please carefully review the disclaimer included in each R file as well as in the PDF documents/files
