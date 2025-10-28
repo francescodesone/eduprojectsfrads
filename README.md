@@ -12,6 +12,7 @@ The purpose of this repository is to showcase personal projects developed during
 
 - **randomtra1**: Contains the work titled "Weak-efficiency and Technical Analysis"
 - **fxforecast11**: Contains the work titled "Forecasting Major FX Rates: A Comparison of Random Walk, ARIMA, and ARFIMA Models"
+- **financialreturns**: Contains tutorial for fitting Normal, Non Normal and EVT distributions for financial returns
 
 Feel free to explore and use the materials ***only*** for your learning and research.
 
